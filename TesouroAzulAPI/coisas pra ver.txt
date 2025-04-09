@@ -1,0 +1,6 @@
+﻿coisas interessantes :
+Custom Validation Attribute
+
+
+
+preciso de um timer para verificar o tempo de assinatura
